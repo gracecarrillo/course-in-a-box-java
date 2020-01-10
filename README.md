@@ -3,6 +3,8 @@
 # [University of Glasgow - Glasgow International College](www.glasgow.ac.uk/gic) 
 ## [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
 
+link here: <https://gracecarrillo.github.io/course-in-a-box/>
+
 <br><br>
 
 #### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
