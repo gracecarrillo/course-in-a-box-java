@@ -21,6 +21,7 @@ Android is an open source and Linux-based operating system for mobile devices su
 In this crash course, you'll learn how to build and run your first Android app in the  Kotlin programming language. Since Android took the world by storm, developers have had few alternatives to Java for app development. Java was the programming language that the most advanced phones were using to run their native apps on their proprietary operating systems. But Kotlin is a modern programming language solution for Android and is now one of the most loved programming languages out there. It’s poised to dominate Android app development.
 </p> 
 ---
+
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template) and following the tutorial at [howto.p2pu.org](http://howto.p2pu.org)
 
 The materials were develope based on the tutorial "Build Your First Android App in Kotling" available here under APACHE License: https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0
