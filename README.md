@@ -1,4 +1,4 @@
-# Crash Course Python for Data Science - Repo
+# Crash Course Android - Repo
 
 # [University of Glasgow - Glasgow International College](www.glasgow.ac.uk/gic) 
 ## [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
