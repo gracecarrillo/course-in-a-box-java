@@ -1,7 +1,7 @@
 ## Get the most out of this crash course
 
 <p align="justify">
-This course is part of your Professional/Researcher Development Plan. Which means, all of this is to advance your career! And while there are important fundamental data science skills that you will learn from this crash course, you will also work in other soft skills, such as your grit and tenacity in completing challenging material. 
+This course is part of your Professional/Researcher Development Plan. Which means, all of this is to advance your career! And while there are important skills that you will learn from this crash course, you will also work in other soft skills, such as your grit and tenacity in completing challenging material. 
 <p/>
 
 <p align="justify">
