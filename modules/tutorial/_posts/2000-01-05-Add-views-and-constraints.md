@@ -7,7 +7,7 @@ title: Add views and constraints
 
 In this task, you will add two more buttons to your user interface, and update the existing button, as shown below.
 
-<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/94e4cf7f4bb5264b.png">
+<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/94e4cf7f4bb5264b.png" width="50%" height="50%">
 
 <br><br>
 ## Step 1: View constraint properties
@@ -307,7 +307,7 @@ The buttons should now have the following text and ids:
 
 If you edited the XML for the layout directly, you might see some errors.
 
-<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/c01516073934ed58.png">
+<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/c01516073934ed58.png" width="50%" height="50%">
 
 The errors occur because the buttons have changed their id and now these constraints are referencing non-existent views.
 
