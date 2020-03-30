@@ -1,42 +1,28 @@
 ---
-title: Quick Pandas
+title: Install Android Studio
 ---
 
-## Why Pandas?
+## Install Android Studio
 
-![Image of Pandas]({{site.baseurl}}/img/pandas.png)
+**Note: This version of the codelab requires Android Studio 3.6 or higher.**
 
-- Pandas stands for “Python Data Analysis Library”. 
-- Game changer when it comes to analyzing data with Python 
-- Pandas is open source, free to use (under a BSD license).
-- Takes data (CSV, TSV, SQL etc) and creates a Python object with rows and columns that looks like Excel.
-- Is much easier to work with in comparison to lists and/or dictionaries.
+You can download Android Studio 3.6 from the [Android Studio page.](https://developer.android.com/studio/)
 
-## Hands on with Pandas!
+Android Studio provides a complete IDE, including an advanced code editor and app templates. It also contains tools for development, debugging, testing, and performance that make it faster and easier to develop apps. You can use Android Studio to test your apps with a large range of preconfigured emulators, or on your own mobile device. You can also build production apps and publish apps on the Google Play store.
 
-Follow the workshop notes with me and complete the exercises after this course, on your own time, at your own pace. You will have to make a copy of the assignment to your personal Google Drive account in order to edit the notebook document. Remember, if you get stuck with the exercises, try asking your colleagues and myself in the Slack Channel. Just click on the **Join the Discussion** section. 
+**Note: Android Studio is continually being improved. For the latest information on system requirements and installation instructions, see the Android Studio download page.**
 
-### Loading Data
+Android Studio is available for computers running Windows or Linux, and for Macs running macOS. The OpenJDK (Java Development Kit) is bundled with Android Studio.
 
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1vpzdW1JWRFb-YSRpvRn35b7McwQTgf3z)
+The installation is similar for all platforms:
 
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1974GfFEi9Q9kowKa2KGwo_cc8Ddc57p9)
+- 1. Navigate to the [Android Studio download page](https://developer.android.com/studio/) and follow the instructions to download and [install Android Studio.](https://developer.android.com/studio/install.html)
 
-### Indexing and Subsetting Dataframes
+- 2. Accept the default configurations for all steps, and ensure that all components are selected for installation.
 
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1v2l4IS_BTB0GbzwyKDieR7p8c98bQyxv)
+- 3. After the install is complete, the setup wizard downloads and installs additional components, including the Android SDK. Be patient, because this process might take some time, depending on your internet speed.
 
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/17BbbMSj9bNH-pKxCFtlB5NcbU2yq0e8W)
+- 4. When the installation completes, Android Studio starts, and you are ready to create your first project.
 
-### Cleaning Data
-
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1BwRv3HlBEHRcE6GZDFmnRj4kznUCf_Ig)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/12-1k-cTFUeC0cRTctGSKbIor_1S-NFTK)
-
-### Basic Visualizations
-
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1JSpbmexfPbd_7CH8zGxF8R2QWdL_dyLq)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/16cNdRuzluzE-CKlXg3690BUCLCJyVVJT)
+**Troubleshooting: If you run into problems with your installation, see the [Android Studio release notes](https://developer.android.com/studio/releases) or [Troubleshoot Android Studio.](https://developer.android.com/studio/troubleshoot)**
 
