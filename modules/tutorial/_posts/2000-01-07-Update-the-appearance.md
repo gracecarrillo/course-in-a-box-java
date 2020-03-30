@@ -1,8 +1,8 @@
 ---
-title: Update the appearance of the buttons and the TextView
+title: Update buttons and TextView appearance
 ---
 
-# Update the appearance of the buttons and the TextView
+# Update buttons and TextView appearance
 <br><br>
 
 Your app's layout is now basically complete, but its appearance can be improved with a few small changes.
