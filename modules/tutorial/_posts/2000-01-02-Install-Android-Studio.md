@@ -4,9 +4,7 @@ title: Install Android Studio
 
 ## Install Android Studio
 
-**Note: This version of the codelab requires Android Studio 3.6 or higher.**
-
-You can download Android Studio 3.6 from the [Android Studio page.](https://developer.android.com/studio/)
+You can download Android Studio 3.6 or higher from the [Android Studio page.](https://developer.android.com/studio/)
 
 Android Studio provides a complete IDE, including an advanced code editor and app templates. It also contains tools for development, debugging, testing, and performance that make it faster and easier to develop apps. You can use Android Studio to test your apps with a large range of preconfigured emulators, or on your own mobile device. You can also build production apps and publish apps on the Google Play store.
 
