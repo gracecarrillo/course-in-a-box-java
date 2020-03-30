@@ -3,15 +3,15 @@ title: Explore the layout editor
 ---
 
 # Explore the layout editor
-
+<br><br>
 Generally, each screen in your Android app is associated with one or more [fragments](https://developer.android.com/guide/components/fragments). The single screen displaying "Hello first fragment" is created by one fragment, called `FirstFragment`. This was generated for you when you created your new project. Each visible fragment in an Android app has a layout that defines the user interface for the fragment. Android Studio has a layout editor where you can create and define layouts.
 
 Layouts are defined in [XML](https://en.wikipedia.org/wiki/XML). The layout editor lets you define and modify your layout either by coding XML or by using the interactive visual editor.
 
 Every element in a layout is a view. In this task, you'll explore some of the panels in the layout editor, and you'll learn how to change properties of views.
-
+<br><br>
 ## Step 1: Open the layout editor
-
+<br><br>
 1. Find and open the layout folder **app > res > layout** on the left side in the Project panel.
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/bb7b4fe5af80859d.png" width="50%" height="50%">
@@ -22,7 +22,7 @@ Every element in a layout is a view. In this task, you'll explore some of the pa
 
 The panels to the right of the Project view comprise the **Layout Editor**. They may be arranged differently in your version of Android Studio, but the function is the same.
 
-<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/356e0f1c3bbc6e40.png" width="50%" height="50%">
+<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/356e0f1c3bbc6e40.png">
 
 On the left is a **Palette** of views you can add to your app.
 
@@ -63,9 +63,9 @@ Depending on the size of your screen and your preference, you may wish to only s
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/46754977c9c3d6c9.png" width="50%" height="50%">
 
 On the right is the Attributes panel. You'll learn about that later.
-
+<br><br>
 ## Step 2: Explore and resize the Component Tree
-
+<br><br>
 1. In `fragment_first.xml`, look at the **Component Tree**. If it's not showing, switch the mode to Design instead of Split or Code.
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/855789e5c4867c8f.png">
@@ -80,7 +80,9 @@ This panel shows the view hierarchy in your layout, that is, how the views are a
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/35c14a27fd2ce30a.png">
 
+<br><br>
 ## Step 3: Explore view hierarchies
+<br><br>
 
 1. In the **Component Tree**, notice that the root of the view hierarchy is a `ConstraintLayout` view.
 
@@ -107,7 +109,9 @@ Every layout must have a root view that contains all the other views. The root v
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
+<br><br>
 ## Step 4: Change property values
+<br><br>
 
 1. In the code editor, examine the properties in the `TextView` element.
 
@@ -118,11 +122,13 @@ Every layout must have a root view that contains all the other views. The root v
    android:text="Hello first fragment"
    ... />
 ```
+
 2. Click on the string in the text property, and you'll notice it refers to a string resource, `hello_first_fragment`.
 
 ```
 android:text="@string/hello_first_fragment"
 ```
+
 3. Right-click on the property and click **Go To > Declaration or Usages**
 
 `values/strings.xml` opens with the string highlighted.
@@ -130,9 +136,11 @@ android:text="@string/hello_first_fragment"
 ```
 <string name="hello_first_fragment">Hello first fragment</string>
 ```
+
 4. Change the value of the `string` property to `Hello World!`.
 5. Switch back to `fragment_first.xml`.
 6. Select `textview_first` in the Component Tree.
+
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/19cfd9f54f58b379.png">
 
 7. Look at the **Attributes** panel on the right, and open the **Declared Attributes** section if needed.
@@ -153,7 +161,9 @@ android:text="@string/hello_first_fragment"
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/d2103406630c3527.png" width="50%" height="50%">
 
+<br><br>
 ## Step 5: Change text display properties
+<br><br>
 
 1. With `textview_first` still selected in the **Component Tree**, in the layout editor, in the list of attributes, under **Common Attributes**, expand the `textAppearance` field. (You may need to scroll down to find it.)
 
@@ -173,6 +183,7 @@ Below is an example of the textAppearance attributes after making some changes.
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/8751426a21281f94.png">
 
 5. Look at the XML for the `TextView`. You see that the new properties have been added.
+
 ```
 <TextView
    android:id="@+id/textview_first"
@@ -184,11 +195,14 @@ Below is an example of the textAppearance attributes after making some changes.
    android:textSize="30sp"
    android:textStyle="bold"
 ```
+
 6. Run your app again and see the changes applied to your Hello World! string
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/c715d9230068d0f8.png" width="50%" height="50%" >
 
+<br><br>
 ## Step 6: Display all attributes
+<br><br>
 
 1. In the **Attributes** panel, scroll down until you find **All Attributes**.
 
@@ -198,5 +212,6 @@ Below is an example of the textAppearance attributes after making some changes.
 
 2. Scroll through the list to get an idea of the attributes you could set for a `TextView`.
 
+<br><br>
 ### Up next: Add colour resources
 
