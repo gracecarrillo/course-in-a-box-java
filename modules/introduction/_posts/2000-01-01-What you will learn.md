@@ -1,26 +1,19 @@
 ### What you'll learn
 
-- **Welcome to Python!**
-  - Why Python?
-  - Python Variables and Data Types
-  - Python Lists
-  - Python For Loops
-  - Python If Statements
-  - Python Functions and Packages
-  - Intro to NumPy
+- **Welcome!**
 
-- **Quick Pandas**
-  - Why Pandas?
-  - Loading Data
-  - Indexing and Subsetting Dataframes
-  - Cleaning Data
-  - Basic Visualizations
+- **Installing Android Studio**
   
-- **Stats refresher**
-  - Why Statistics?
-  - Descriptive Statistics 1
-  - Descriptive Statistics 2
+- **Creating your First Project**
  
-- **Predictive Modelling**
-  - Regression Modeling
-  - Classification Modeling
+- **Exploring the layout editor**
+
+- **Adding color resources**
+
+- **Adding views and constraints**
+
+- **Updating the appearance of the buttons and the TextView**
+
+- **Making your app interactive**
+
+- **Implementing the second fragment**
