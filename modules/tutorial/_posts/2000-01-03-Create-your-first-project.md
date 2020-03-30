@@ -9,9 +9,11 @@ In this step, you will create a new Android project for your first app. This sim
 
 Here's what the finished app will look like:
 
-<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/72c7e6d2960f4faa.png" width="25%" height="25%">
+<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/72c7e6d2960f4faa.png" width="50%" height="50%">
 
+<br><br>
 ## Step 1: Create a new project
+<br><br>
 
 1. Open Android Studio.
 2. In the **Welcome to Android Studio** dialog, click **Start a new Android Studio project**.
@@ -38,7 +40,9 @@ After these steps, Android Studio:
 
 - Opens the code editor showing your project.
 
+<br><br>
 ## Step 2: Get your screen set up
+<br><br>
 
 When your project first opens in Android Studio, there may be a lot of windows and panes open. To make it easier to get to know Android Studio, here are some suggestions on how to customize the layout.
 
@@ -51,7 +55,9 @@ At this point, your screen should look a bit less cluttered, similar to the scre
 
 <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/70183da1f878e11a.png" width="50%" height="50%">
 
+<br><br>
 ## Step 3: Explore the project structure and layout
+<br><br>
 
 The upper left of the Android Studio window should look similar to the following diagram:
 
@@ -84,7 +90,9 @@ This folder contains `AndroidManifest.xml`. This file describes all the componen
 - **navigation**: This folder contains the navigation graph, which tells Android Studio how to navigate between different parts of your application.
 - **values**: Contains resources, such as strings and colors, used in your app.
 
+<br><br>
 ## Step 4: Create a virtual device (emulator)
+<br><br>
 
 In this task, you will use the [Android Virtual Device (AVD) manager](http://developer.android.com/tools/devices/managing-avds.html) to create a virtual device (or emulator) that simulates the configuration for a particular type of Android device.
 
@@ -109,7 +117,9 @@ The AVD Manager now shows the virtual device you added.
 
 7. If the **Your Virtual Devices** AVD Manager window is still open, go ahead and close it.
 
+<br><br>
 ## Step 5: Run your app on your new emulator
+<br><br>
 
 1. In Android Studio, select **Run > Run 'app'**, or click the Run icon <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/609c3e4473493202.png"> in the toolbar.  The icon changes once your app is running. <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/edee73c1aed2b57e.png">
 
@@ -135,7 +145,9 @@ Once your app builds and the emulator is ready, Android Studio uploads the app t
 
 **Note: It is a good practice to start the emulator at the beginning of your session. Don't close the emulator until you are done testing your app, so that you don't have to wait for the emulator to boot again. Also, don't have more than one emulator running at once, to reduce memory usage.**
 
+<br><br>
 ## Step 6: Run your app on a device (if you have one)
+<br><br>
 
 What you need:
 
@@ -184,7 +196,9 @@ If you are still having trouble, check that you installed the appropriate USB dr
 
 Check the [troubleshooting section in the Android Studio documentation](https://developer.android.com/studio/troubleshoot).
 
+<br><br>
 ## Step 7: Explore the app template
+<br><br>
 
 When you created the project and selected **Basic Activity**, Android Studio set up a number of files, folders, and also user interface elements for you, so you can start out with a working app and major components in place. This makes it easier to build your application.
 
@@ -195,3 +209,6 @@ Looking at your app on the emulator or your device, in addition to the **Next** 
 At the top right of the screen, there's a menu with 3 vertical dots. <img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/37010a0e7f96362c.png" width="5%" height="5%">  If you tap on that, you'll see that Android Studio has also created an options menu with a Settings item. Choosing **Settings** doesn't do anything yet, but having it set up for you makes it easier to add user-configurable settings to your app.
 
 Later , you'll look at the **Next** button and modify the way it looks and what it does.
+
+## Up Next: Explore the layout editor
+
