@@ -24,6 +24,6 @@ In this crash course, you'll learn how to build and run your first Android app i
 
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template) and following the tutorial at [howto.p2pu.org](http://howto.p2pu.org)
 
-The materials were develope based on the tutorial "Build Your First Android App in Kotling" available here under APACHE License: https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0
+The materials were develope based on the tutorial "Build Your First Android App in Kotlin" available here under APACHE License: https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0
 
 
