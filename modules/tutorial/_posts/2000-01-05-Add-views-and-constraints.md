@@ -174,7 +174,7 @@ Your layout should now look something like this.
 
 8. Run the app to make sure it displays as you expect it to.
 
-<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/73c7729f2d8329df.png">
+<img src="https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/img/73c7729f2d8329df.png" width="50%" height="50%">
 
 You now know how to create new string resources by extracting them from existing field values. (You can also add new resources to the `strings.xml` file manually.) And you know how to change the id of a view.
 
