@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box-android-kotlin
+baseurl: /course-in-a-box-android
 markdown: kramdown
 permalink: /:categories/:title/
 
