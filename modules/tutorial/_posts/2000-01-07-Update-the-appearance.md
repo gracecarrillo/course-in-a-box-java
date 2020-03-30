@@ -2,7 +2,7 @@
 title: Update buttons and TextView appearance
 ---
 
-# Update buttons and TextView appearance
+# Update buttons and TextView
 <br><br>
 
 Your app's layout is now basically complete, but its appearance can be improved with a few small changes.
