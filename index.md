@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Crash Course Python for Data Science
+## Crash Course Android: Build your first app!
 
 ### [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
 <br><br>
@@ -12,9 +12,13 @@ published: true
 <br><br>
 
 <p align="justify">
-Python is a powerful programming language used for many different applications. But a huge community around this open source language has created quite a few tools to efficiently work with Python for Data Science. Python is becoming the laguage of choice of anyone interested in analysing data.
+Android is an open source and Linux-based operating system for mobile devices such as smartphones and tablet computers. Android was developed by the Open Handset Alliance, led by Google, and other companies. This tutorial will teach you basic Android with Java programming and will also take you through some advance concepts related to Android application development.
 </p>
 
 <p align="justify">
-In this crash course, we will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. We'll learn about Python functions and control flow. Plus, we'll look at the world of data visualizations with Python and create our own stunning visualizations based on real data.
+This crash-course is for beginners. After completion, you will find yourself ready for the next level. There are tons of Android courses built by Google to help you on your learning journey.
+  
+  - [Android Developer Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) teaches programmers to build Android apps using Kotlin, another programming language instead of Java. 
+  
+  - [Kotlin Bootcamp codelabs course](https://developer.android.com/courses/kotlin-bootcamp/overview) is an introduction to Kotlin for programmers. You need experience with an object oriented programming language (Java, C++, Python) to take this course..
 </p>
