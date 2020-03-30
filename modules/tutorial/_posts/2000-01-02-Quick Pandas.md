@@ -16,13 +16,13 @@ Android Studio is available for computers running Windows or Linux, and for Macs
 
 The installation is similar for all platforms:
 
-- 1. Navigate to the [Android Studio download page](https://developer.android.com/studio/) and follow the instructions to download and [install Android Studio.](https://developer.android.com/studio/install.html)
+1. Navigate to the [Android Studio download page](https://developer.android.com/studio/) and follow the instructions to download and [install Android Studio.](https://developer.android.com/studio/install.html)
 
-- 2. Accept the default configurations for all steps, and ensure that all components are selected for installation.
+2. Accept the default configurations for all steps, and ensure that all components are selected for installation.
 
-- 3. After the install is complete, the setup wizard downloads and installs additional components, including the Android SDK. Be patient, because this process might take some time, depending on your internet speed.
+3. After the install is complete, the setup wizard downloads and installs additional components, including the Android SDK. Be patient, because this process might take some time, depending on your internet speed.
 
-- 4. When the installation completes, Android Studio starts, and you are ready to create your first project.
+4. When the installation completes, Android Studio starts, and you are ready to create your first project.
 
 **Troubleshooting: If you run into problems with your installation, see the [Android Studio release notes](https://developer.android.com/studio/releases) or [Troubleshoot Android Studio.](https://developer.android.com/studio/troubleshoot)**
 
