@@ -25,5 +25,5 @@ At Google I/O 2017, Google announced that Android will support Kotlin as a first
 </p>
 <br><br>
 <p align="justify">
-Kotlin is a statically-typed, modern programming language that runs on a Java Virtual Machine (JVM) by compiling Kotlin code into Java byte-code. It can also be compiled to JavaScript source code and to native executables, and is now one of the most loved programming languages out there. It’s poised to dominate Android app development. Go to the **Tutorial** tab and get started!
+Kotlin is a statically-typed, modern programming language that runs on a Java Virtual Machine (JVM) by compiling Kotlin code into Java byte-code. It can also be compiled to JavaScript source code and to native executables, and is now one of the most loved programming languages out there. It’s poised to dominate Android app development. Go to the <b>Tutorial<b> tab and get started!
 </p>
