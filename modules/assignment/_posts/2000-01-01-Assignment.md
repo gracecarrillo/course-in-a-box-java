@@ -4,9 +4,7 @@ title: Assignment
 
 ## E-Portfolio Assignment 
 
-For this Crash Course, your assignment is simply to complete the steps and buid your app! Change the colours, come up with a less boring name than "My First App" and share screenshot(s) of your app as your evidence in your e-portfolio.
-
-You decide how much you want to personalise your app. 
+For this Crash Course, your assignment is to complete a series of exercises on Java. You can download the PDF of the assignment by [clicking here](https://drive.google.com/file/d/1uQwWumJ-9UoJ2Mhdu5IrL78Xeww4IANE/view?usp=sharing).
 
 Remember, the important thing is that you learned new skills and hopefully had some fun while doing it!
 
