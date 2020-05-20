@@ -14,16 +14,17 @@ link here: <https://gracecarrillo.github.io//course-in-a-box-java
 <br><br>
 
 <p align="justify">
-Android is an open source and Linux-based operating system for mobile devices such as smartphones and tablet computers. Android was developed by the Open Handset Alliance, led by Google, and other companies. This tutorial is for beginners to help them understand basic Android programming.
+JAVA was developed by Sun Microsystems Inc in 1991, later acquired by Oracle Corporation. It was developed by James Gosling and Patrick Naughton. It is a simple programming language.  Writing, compiling and debugging a program is easy in java.  It helps to create modular programs and reusable code.
+
 </p>
 
 <p align="justify">
-In this crash course, you'll learn how to build and run your first Android app in the  Kotlin programming language. Since Android took the world by storm, developers have had few alternatives to Java for app development. Java was the programming language that the most advanced phones were using to run their native apps on their proprietary operating systems. But Kotlin is a modern programming language solution for Android and is now one of the most loved programming languages out there. It’s poised to dominate Android app development.
+In this crash course, you will see how to write, compile and run a java program, learn java syntax, code conventions and several ways to run a java program.
 </p> 
 ---
 
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template) and following the tutorial at [howto.p2pu.org](http://howto.p2pu.org)
 
-The materials were develope based on the tutorial "Build Your First Android App in Kotlin" available here under APACHE License: https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0
+The materials were developed based on Oracle documentation: https://docs.oracle.com/javase/tutorial/
 
 
