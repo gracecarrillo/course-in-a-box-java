@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Crash Course Android: Learn Java by Example!
+## Crash Course: Learn Java by Example!
 
 ### [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
 <br><br>
