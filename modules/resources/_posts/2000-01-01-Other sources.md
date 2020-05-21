@@ -3,18 +3,12 @@ title: Other sources
 published: true
 ---
 
-# Free Android resources and tutorials:
+# Free Java resources and tutorials:
 
 <br><br>
 
-- [Android Developer Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) teaches programmers to build Android apps. 
+- [Java Tutorial for complete begginers](https://www.udemy.com/java-tutorial/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-UfB4ehpx3sT93US_xK8IFg&LSNPUBID=JVFxdTr9V80). If you are a beginner at programming or know a programming language but also want to learn Java, then you can enroll in this course.
 
-- [Kotlin Bootcamp codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)course is an introduction to Kotlin for programmers. You need experience with an object oriented programming language (Java, C++, Python) to take this course.
+- [Practice Java by building projects](https://www.udemy.com/course/practice-java-by-building-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-c3FvIqnB23vsjkE5UgahAg). Use this course for more involved and project-based learning.
 
-- Find more at [developer.android.com](https://developer.android.com/training/index.html), the official Android developer documentation from Google.
-
-These interactive, video-based courses were created by Google experts in collaboration with Udacity:
-
-- [Developing Android Apps in Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) If you know how to program, learn how to build Android apps. This course uses Kotlin.
-
-- [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011). This is an introduction to Kotlin for programmers. You need some experience with an object oriented programming language (Java, C++, Python) to take this course.
+- [Eclipse for begginers](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Q4j7BFR0zMcL.Fea_TLXRQ) As a Java developer, good knowledge of an IDE is important, and this course will teach you how to work with Eclipse. 
