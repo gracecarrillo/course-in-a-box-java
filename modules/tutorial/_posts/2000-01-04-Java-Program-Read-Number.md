@@ -36,7 +36,7 @@ public class Read_Input {
 Remember, to run the file, you must save it with the class name `Read_Input.java` and then you can run it on the terminal:
 
 ```
-java Read_Input`
+java Read_Input
 ```
 
 **Output:**
