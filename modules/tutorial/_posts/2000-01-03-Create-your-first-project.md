@@ -15,7 +15,9 @@ During the live tutorial, we use the online IDE. The instructions below also inc
 **2.** click the RUN button to compile it, and then \
 **3.** you can run the program on the terminal with `java name_of_file`+ Enter.
 
+<br><br>
 <img src="https://github.com/gracecarrillo/course-in-a-box-java/blob/gh-pages/img/Online_IDE_Java.jpg?raw=true" width="100%" height="100%" style="vertical-align:middle">
+<br><br>
 
 ## Simple Java Program:
 
