@@ -2,18 +2,16 @@
 
 - **Welcome!**
 
-- **Installing Android Studio**
+- **Setting up the Java Environment**
   
-- **Creating your First Project**
+- **Compile and Run your First Java Program**
  
-- **Exploring the layout editor**
+- **Java Program to read a number**
 
-- **Adding color resources**
+- **Java Program to check if assumption**
 
-- **Adding views and constraints**
+- **Variables in Java**
 
-- **Updating the appearance of the buttons and the TextView**
+- **Data Types in Java**
 
-- **Making your app interactive**
-
-- **Implementing the second fragment**
+- **Operators in Java**
