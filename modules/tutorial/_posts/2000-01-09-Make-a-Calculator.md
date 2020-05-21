@@ -5,12 +5,16 @@ title: Java Program to Make a Calculator using Switch Case
 # Java Program to Make a Calculator using Switch Case
 <br><br>
 
-In this Program we are making a simple calculator that performs addition, subtraction, multiplication and division based on the user input. The program takes the value of both the numbers (entered by user) and then user is asked to enter the operation (+, -, * and /), based on the input program performs the selected operation on the entered numbers using switch case. Switch case statement is used when we have number of options (or choices) and we may need to perform a different task for each choice.
+In this Program we are making a simple calculator that performs addition, subtraction, multiplication and division based on the user input. The program takes the value of both the numbers (entered by user) and then user is asked to enter the operation (+, -, * and /), based on the input program performs the selected operation on the entered numbers using switch case. 
+
+The switch case statement is used when we have number of options (or choices) and we may need to perform a different task for each choice.
+
+Here's the code you must run:
 
 ```
 import java.util.Scanner;
 
-public class JavaExample {
+public class Calculator {
 
     public static void main(String[] args) {
 
@@ -32,7 +36,7 @@ public class JavaExample {
         scanner.close();
         double output;
 
-        switch(operator)
+        switch(operator)/*we are providing a variable in the switch parenthesis*/
         {
             case '+':
             	output = num1 + num2;
@@ -56,10 +60,10 @@ public class JavaExample {
              */
             default:
                 System.out.printf("You have entered wrong operator");
-                return;
+                return;//exception handling
         }
 
-        System.out.println(num1+" "+operator+" "+num2+": "+output);
+        System.out.println(num1+" "+operator+" "+num2+" = "+output);
     }
 }
 ```
@@ -67,11 +71,12 @@ public class JavaExample {
 **Output**
 
 ```
-Enter first number:40
-Enter second number:4
+Enter first number:5
+Enter second number:5
 Enter an operator (+, -, *, /): /
-40.0 / 4.0: 10.0
+5.0 / 5.0 = 1.0
 ```
+Try different numbers and operators to see how it works!
 
 ### Awesome. You've now learned a bit of Java by example. 
 
