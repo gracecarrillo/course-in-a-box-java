@@ -6,7 +6,7 @@ title: Setting Up Java
 
 For this Crash Course you don't need to install Java. We will use an online resource for running our programs. This is because installing Java takes time and we don't have much. 
 
-We will use an online compiler you can find here: https://www.compilejava.net/
+We will use an online compiler you can find here: https://repl.it/languages/java10
 
 ## Setting up the Java Environment
 
