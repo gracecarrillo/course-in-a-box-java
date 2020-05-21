@@ -10,8 +10,4 @@
 
 - **Java Program to check if assumption**
 
-- **Variables in Java**
-
-- **Data Types in Java**
-
-- **Operators in Java**
+- **Java Program to calculate simple interest**
