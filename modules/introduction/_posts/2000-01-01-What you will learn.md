@@ -11,3 +11,5 @@
 - **Java Program to check if assumption**
 
 - **Java Program to calculate simple interest**
+
+- **Java Program to Make a Calculator using Switch Case**
