@@ -78,6 +78,4 @@ Enter an operator (+, -, *, /): /
 ```
 Try different numbers and operators to see how it works!
 
-### Awesome. You've now learned a bit of Java by example. You can find all the exercises we did online here: https://Java-Crash-Course.gracecarrilloc.repl.run
-
-
+### Awesome. You've now learned a bit of Java by example.
