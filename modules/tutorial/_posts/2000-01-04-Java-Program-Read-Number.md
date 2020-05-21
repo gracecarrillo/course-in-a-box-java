@@ -42,4 +42,4 @@ The number entered by user: 101
 ```
 
 <br><br>
-### Up next: 
+### Click Next Button
