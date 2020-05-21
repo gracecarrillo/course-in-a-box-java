@@ -7,6 +7,8 @@ published: true
 
 In this tutorial, we will see how to write, compile and run a java program. I will also cover java syntax, code conventions and several ways to run a java program.
 
+During the live tutorial, we use the online IDE. The instructions below also include how to compile and run the program using Java in your local machine. 
+
 ## Simple Java Program:
 
 ```
