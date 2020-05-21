@@ -5,14 +5,14 @@ title: Java Program to read a number
 # Java Program to read integer value from the Standard Input
 <br><br>
 
-In this program we will see how to read an integer number entered by the user. Scanner class is in java.util package. It is used for capturing the input of the primitive types like int, double etc. and strings.
+In this program we will see how to read an integer number entered by the user. Scanner class is in `java.util package`. It is used for capturing the input of the primitive types like int, double etc. and strings.
 
 We will import the package `java.util.Scanner` to use the Scanner. In order to read the input provided by user, we first create the object of Scanner by passing `System.in` as parameter. Then we are using `nextInt()` method of Scanner class to read the integer. 
 
 ```
 import java.util.Scanner;
 
-public class Demo {
+public class Read_Input {
 
     public static void main(String[] args) {
 
@@ -32,6 +32,11 @@ public class Demo {
         System.out.println("The number entered by user: "+num);
     }
 }
+```
+Remember, to run the file, you must save it with the class name `Read_Input.java` and then you can run it on the terminal:
+
+```
+java Read_Input`
 ```
 
 **Output:**
